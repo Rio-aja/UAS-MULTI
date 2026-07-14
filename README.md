@@ -1,6 +1,7 @@
 Deteksi Kendaraan Menggunakan YOLOv8
 
 Deskripsi
+
 Proyek ini merupakan implementasi Computer Vision menggunakan YOLOv8 untuk mendeteksi berbagai jenis kendaraan pada gambar maupun video. Model dilatih menggunakan dataset Road Vehicle Images Dataset dari Kaggle dan dijalankan menggunakan Google Colab.
 
 Fungsi/Fitur
