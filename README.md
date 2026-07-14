@@ -8,8 +8,11 @@ Mendeteksi kendaraan secara otomatis pada gambar atau video.
 Mengenali beberapa jenis kendaraan, seperti:
 
 1.Car
+
 2.Bus
+
 3.Truck
+
 4.Motorcycle
 
 Menampilkan bounding box pada setiap kendaraan.
