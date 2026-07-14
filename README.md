@@ -6,6 +6,7 @@ Proyek ini merupakan implementasi Computer Vision menggunakan YOLOv8 untuk mende
 Fungsi/Fitur
 Mendeteksi kendaraan secara otomatis pada gambar atau video.
 Mengenali beberapa jenis kendaraan, seperti:
+
 1.Car
 2.Bus
 3.Truck
